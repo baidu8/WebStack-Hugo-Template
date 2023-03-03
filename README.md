@@ -13,6 +13,7 @@
 ### 如何使用?
 
 > 📺演示视频➡️https://www.bilibili.com/video/BV1sX4y1D78g
+> ❤️‍🔥感谢热心网友提供的B站视频
 
 1. 点击 `Use this template` 使用此模板，将仓库命名为 `你的用户名.github.io`
     （例如我的用户名是 `cyolc932`，就命名为 `cyolc932.github.io`）
