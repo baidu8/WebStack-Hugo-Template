@@ -2,7 +2,7 @@
 
 ### 模板介绍
 
-- 主题地址➡️https://github.com/shenweiyan/WebStack-Hugo
+- 🛸主题地址➡️https://github.com/shenweiyan/WebStack-Hugo
 - 主要配置信息集成在 `config.toml`，一键完成各种自定义配置
 - 导航各信息集成在 `data/webstack.yml` 
 - 手机电脑自适应以及夜间模式
